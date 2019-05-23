@@ -1,0 +1,20 @@
+{
+  "name": "mycoolapp",
+  "version": "1.0.0",
+  "description": "For Deploying in heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunwilson6/myCoolApp.git"
+  },
+  "author": "Varun Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunwilson6/myCoolApp/issues"
+  },
+  "homepage": "https://github.com/varunwilson6/myCoolApp#readme"
+}
